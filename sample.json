@@ -1,0 +1,66 @@
+{
+	"status": "ok",
+	"totalResults": 6,
+	"articles": [
+		{
+			"source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+			"author": "James Montague",
+			"title": "The beautiful game: Still a crucible for protest in Hong Kong?",
+			"description": "Football has long provided an arena for protest in Hong Kong, but this Asian Cup has been quieter.",
+			"url": "https://www.aljazeera.com/sports/2024/1/28/the-beautiful-game-still-a-crucible-for-protest-in-hong-kong",
+			"urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/01/AP23082614944553-1706369113.jpg?resize=1920%2C1440",
+			"publishedAt": "2024-01-28T07:53:02Z",
+			"content": "In 2019, as pro-democracy protesters marched through the streets of Hong Kong, Nathan Law could hear the pro-democracy songs almost everywhere he went.\r\nAt the time, Law was perhaps the highest-profi… [+10903 chars]"
+		},
+		{
+			"source": { "id": "fox-sports", "name": "Fox Sports" },
+			"author": "Michael Cohen",
+			"title": "Sherrone Moore introduced as new football coach at Michigan: 'I'm going to be me'",
+			"description": "On Saturday, Michigan introduced Sherrone Moore as the 21st head football coach in program history. And he's keenly aware he's the man tasked with following in the footsteps of Jim Harbaugh.",
+			"url": "http://www.foxsports.com/stories/college-football/sherrone-moore-introduced-as-new-football-coach-at-michigan-im-going-to-be-me",
+			"urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/01/1408/814/sherronehor.png?ve=1&tl=1",
+			"publishedAt": "2024-01-27T22:44:28Z",
+			"content": "ANN ARBOR, Mich.  Somewhere between a week and 10 days before Michigan athletic director Warde Manuel received the call from head football coach Jim Harbaugh, he wanted to speak with offensive coordi… [+8891 chars]"
+		},
+		{
+			"source": { "id": "bleacher-report", "name": "Bleacher Report" },
+			"author": "David Kenyon",
+			"title": "Unique Stats from the 2023 College Football Regular Season",
+			"description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+			"url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+			"urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+			"publishedAt": "2023-12-12T12:00:00Z",
+			"content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+		},
+		{
+			"source": { "id": "talksport", "name": "TalkSport" },
+			"author": "161385360554578",
+			"title": "Rice rescues Arsenal, Arteta evades Raya question, more Premier League build-up",
+			"description": "talkSPORT.com brings you all the latest news, views and gossip from the world of football. Today’s headlines: Mikel Arteta dodges David Raya question after goalkeeper’s errors Declan Ri…",
+			"url": "https://talksport.com/football/1667216/football-news-live-arsenal-mikel-arteta-david-raya-premier-league/",
+			"urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/12/jw-TALKSPORT-BLOG-06-12.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+			"publishedAt": "2023-12-06T09:06:42Z",
+			"content": "Mikel Arteta didn't provide a straight answer when asked about David Raya's struggles during Arsenal's win at Luton.\r\nArsenal claimed a dramatic last-gasp win at Kenilworth Road with Declan Rice's st… [+1106 chars]"
+		},
+		{
+			"source": { "id": "talksport", "name": "TalkSport" },
+			"author": "Josh Fordham",
+			"title": "Tottenham fans feared relegation without Harry Kane but Ange Postecoglou has got them scoring more...",
+			"description": "Tottenham losing Harry Kane in the summer sent the fans into crisis mode and you can’t blame them. Not only was he their record goalscorer, but also one of the best strikers in world football seaso…",
+			"url": "https://talksport.com/football/1666888/tottenham-goals-harry-kane-ange-postecoglou/",
+			"urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/12/Kane_Postecoglou-Comp.png?strip=all&quality=100&w=1500&h=1000&crop=1",
+			"publishedAt": "2023-12-05T17:57:19Z",
+			"content": "Tottenham losing Harry Kane in the summer sent the fans into crisis mode and you cant blame them.\r\nNot only was he their record goalscorer, but also one of the best strikers in world football season … [+2220 chars]"
+		},
+		{
+			"source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+			"author": null,
+			"title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+			"description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+			"url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+			"urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+			"publishedAt": "2020-04-27T07:20:43Z",
+			"content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+		}
+	]
+}
